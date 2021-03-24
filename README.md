@@ -3,6 +3,8 @@
 
 Carlos Azaustre resuelve una prueba técnica típica de entrevistas.
 
+https://www.youtube.com/watch?v=I27ZJU2_-Og
+
 Se requiere que listes unos números y compruebes que:
 - Los múltiplos de 3 devuelvan `fizz`.
 - Los múltiplos de 5 devuelvan `buzz`.
